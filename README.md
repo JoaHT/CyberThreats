@@ -1,5 +1,8 @@
 # PROJECT - GLOBAL CYPER SECURITY THREATS
 
+![image](images/CyberThreats2.jpg)
+
+
 A client from Germany is thinking about reworking their defense system to be more effective towards the most common cyber threats. He wants us to answer three tasks and put them all in an interactive dashboard portraying the results.
 
 1. What Cyber threats propose the biggest threat in scale, Financial Loss and Number of Affected Users? 
